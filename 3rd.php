@@ -51,11 +51,11 @@
         </div> 
         <div class="yy">
             <p id="ww">
-                Enter PANCARD Number*
+                Enter Date of birth*
             </p>
         </div>
         <div class="zz">
-            <input type="text" name="pancard" id="xx" required="">
+            <input type="text" name="DOB" id="xx" required="">
         </div> <br><br>
         <div class="gg">
            <center>

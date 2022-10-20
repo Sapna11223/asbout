@@ -45,19 +45,19 @@
     <form action="6.php" method="post">
         <div class="cc">
             <p id="dd">
-                Enter Father's name
+                Enter Pan card Number*
             </p>
         </div>
         <div class="ee">
-            <input type="text" name="father name" id="ff" required="">
+            <input type="text" name="PAN CARD" id="ff" required="">
         </div> 
         <div class="yy">
             <p id="ww">
-                Enter Date of Birth
+                Enter confirm date of birth*
             </p>
         </div>
         <div class="zz">
-            <input type="date" name="dob" id="xx" required="">
+            <input type="date" name="DOB="xx" required="">
         </div> 
         <div class="by">
             <h2>

